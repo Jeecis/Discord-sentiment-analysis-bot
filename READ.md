@@ -2,7 +2,7 @@
 #### Video Demo:  https://youtu.be/7ZGa9OTpDH8
 #### Description:
 
-Imagine you are a business man that needs to conduct a lot of interviews. I mean more than 100 interviews. Of course you can just simply record them and analyze the one by one. But that is a very tedious process.
+Imagine you are a businessman that needs to conduct a lot of interviews. I mean more than 100 interviews. Of course you can just simply record them and analyze the one by one. But that is a very tedious process.
 
 That is why I created a sentiment analysis bot that can take videos, audio files, CSV files and even record and analyze your interview in REAL-TIME.
 The bot displays sentiment in terms of positive or negative and additionally, provides a comprehensive look at all the emotions that are present in your text.
